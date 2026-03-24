@@ -1,6 +1,12 @@
 # Raspberry Pi 5 Smart Home Applications
 本專題以 Raspberry Pi 為核心，整合光敏電阻、DHT11 溫溼度感測器、LED 與 PWM 風扇，實作一套智慧環境控制系統。系統在自動模式下可依環境亮度控制照明，並依溫度自動調整風扇轉速；同時也透過 LINE Bot 提供遠端監控與手動控制功能，使用者可即時查詢環境狀態或介入控制設備。
 
+<h3>Demo Video</h3>
+
+<a href="https://youtu.be/rwNc7hAQefU">
+  <img src="https://img.youtube.com/vi/rwNc7hAQefU/0.jpg" width="600">
+</a>
+
 ## 📁 專案架構說明
 
 ```bash
